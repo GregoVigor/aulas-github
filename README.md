@@ -1,2 +1,2 @@
 # aulas-github
-informações aula giy
+informações aula git
